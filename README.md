@@ -1,3 +1,3 @@
 <h1>
-   hello i am inderjeet
+   hello I am Inderjeet verma
 </h1>
